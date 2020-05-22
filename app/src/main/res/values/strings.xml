@@ -1,0 +1,57 @@
+<resources>
+
+    <string name="app_name">FriendsFurLife</string>
+
+    <!--Opening Fragment-->
+    <string name="welcome_message">This app has been created to help unite pets that need re-homing with humans that have love to give.
+       \n\n Thank you for giving us a chance!</string>
+    <string name="next">Next</string>
+
+    <!--Choice Fragment-->
+    <string name="adopt">I want to Adopt</string>
+    <string name="shelter">We are a Shelter</string>
+    <string name="choose">Welcome to Friends Fur Life!\n\n Please choose the option that is appropriate for you</string>
+
+    <!--Adopter Login Fragment-->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="adopter_not_registered">Not registered?</string>
+    <string name="adopter_register_now">REGISTER NOW</string>
+
+    <!--Adopter Registration Fragment-->
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email_address">Email Address</string>
+    <string name="adopter_already_registered">Already Registered?</string>
+    <string name="adopter_login_link">LOGIN</string>
+    <string name="adopter_register_but">REGISTER</string>
+
+    <!-- Adopter Home Fragment-->
+    <string name="animal_name">Boris</string>
+
+    <!--Shelter Login Fragment-->
+    <string name="shelter_not_registered">Not registered?</string>
+    <string name="shelter_register_now">REGISTER NOW</string>
+
+    <!--Shelter Registration Fragment-->
+    <string name="shelter_already_registered">Already Registered?</string>
+    <string name="shelter_login_link">LOGIN</string>
+    <string name="shelter_register_but">REGISTER</string>
+    <string name="username_advice">Individual Shelter Name</string>
+    <string name="org_advice">Organization Name</string>
+
+    <!--Shelter Home Fragment-->
+    <string name="add_new_animal">Add New Animal</string>
+    <string name="view_animals">View Animals</string>
+    <string name="delete_animal">Delete Animal</string>
+
+    <!--Shelter Add Animal Fragment-->
+    <string name="add_animal_info">Please fill in the following info for the new animal</string>
+    <string name="add_animal_name">Name</string>
+    <string name="add_animal_type">Type of Animal</string>
+    <string name="add_animal_breed">Breed</string>
+    <string name="choose_animal_image">Choose Image</string>
+    <string name="animal_description">Description</string>
+    <string name="add_animal_confirm">Add Animal</string>
+
+</resources>
